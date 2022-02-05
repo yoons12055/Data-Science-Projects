@@ -5,3 +5,11 @@
 - Compared R-squared, mean squared error, and mean absolute error of ordinary least squares(OLS), lasso, and ridge regression models
 - Predicted wine quality with a model with the highest accuracy of out of sample R-squared
 - University of California, Berkeley / IND ENG 142 Final Project
+
+## 2. University of California Basketball Scores Predictions
+**Python(NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, OneHotEncoder, GridSearchCV, and KFold), Machine Learning Models(OLS, Decision Tree, Random Forest, Lasso, and Ridge)**
+- Datasets of University of Calfornia Basketball Players' Stats
+- Compared the R-squared, MSE, and MAE of ML regression models: ordinary least squares(OLS), decision tree, lasso, ridge, and random forest
+- Predicted points scored for the next season from the other stats with the model with the highest accuracy
+- University of California, Berkeley / IND ENG 142 Final Project
+
