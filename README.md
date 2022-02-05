@@ -1,5 +1,5 @@
 # Data-Analysis-ML-Python-Projects
-## 1. Wine Quality Analysis
+## [Wine Quality Analysis](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/Wine%20Quality%20Analysis)
 **Python(NumPy, Pandas, Matplotlib, Scikit-Learn, GridSearchCV), Machine Learning Models(OLS, Ridge, Lasso)**
 - Dataset of wine quality and other features was given
 - Compared R-squared, mean squared error, and mean absolute error of ordinary least squares(OLS), lasso, and ridge regression models
