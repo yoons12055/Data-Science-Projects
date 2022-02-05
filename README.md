@@ -6,14 +6,14 @@
 - Predicted wine quality with a model with the highest accuracy of out of sample R-squared
 - University of California, Berkeley / IND ENG 142 Final Project
 
-## 2.  Predictions on University of California Basketball Scores
+## [Predictions on University of California Basketball Scores](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/UC%20Basketball%20Scores)
 **Python(NumPy, Pandas, Seaborn, Matplotlib, Scikit-Learn, OneHotEncoder, GridSearchCV, and KFold), Machine Learning Models(OLS, Decision Tree, Random Forest, Lasso, and Ridge)**
 - Datasets of University of Calfornia Basketball Players' Stats
 - Compared the R-squared, MSE, and MAE of ML regression models: ordinary least squares(OLS), decision tree, lasso, ridge, and random forest
 - Predicted points scored for the next season from the other stats with the model with the highest accuracy
 - University of California, Berkeley / IND ENG 142 Final Project
 
-## 3. Predictions on the Confirmed and Death COVID-19 Cases
+## [Predictions on the Confirmed and Death COVID-19 Cases]()
 **Python(Matplotlib, NumPy, Pandas, Seaborn, and Scikit-learn)**
 - Datasets of COVID-19 confirmed cases and deaths of the United States were given
 - Constructed the best linear regression model
