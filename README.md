@@ -13,7 +13,7 @@
 - Predicted points scored for the next season from the other stats with the model with the highest accuracy
 - University of California, Berkeley / IND ENG 142 Final Project
 
-## [Predictions on the Confirmed and Death COVID-19 Cases]()
+## [Predictions on the Confirmed and Death COVID-19 Cases](https://github.com/yoons12055/Data-Analysis-ML-Python-Projects/tree/main/COVID19%20Analysis%20Project)
 **Python(Matplotlib, NumPy, Pandas, Seaborn, and Scikit-learn)**
 - Datasets of COVID-19 confirmed cases and deaths of the United States were given
 - Constructed the best linear regression model
