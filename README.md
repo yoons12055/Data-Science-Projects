@@ -20,3 +20,8 @@
 - Predicted the number of confirmed and death cases
 - Investigated which factors contribute to predicting the number of deaths and confirmed cases
 - **University of California, Berkeley - Data 100 Final Project**
+
+## [University of California Berkeley ULab Database Design Project]()
+- Established a database design for the undergraduate lab organization through building EER diagram and relational schemas
+- Uploaded tables into MySQL workbench using the EER modeling feature and wrote relationship view on MySQL
+- Discussed interesting queries which would be useful for the client, ULab, being applied with a variety of tools and models
